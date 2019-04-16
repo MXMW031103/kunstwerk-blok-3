@@ -8,7 +8,7 @@ var f = 100
 //xpos = a ypos= b xstep is c y step is d xpas = e ypas= f
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(400, 400);
   // hier boven zie je dat ik voor de groote van het canvas heb gekozen om het zo te doen dat het zo graat is als het kan op die window
 }
 
